@@ -1,0 +1,3 @@
+This is a Test file to be tested 
+It contains nothing
+It helps me play arround with git to master it
